@@ -1,6 +1,4 @@
 
-Welcome to BalkanWoW bug-tracker !
-
 # Effective Bug Reporting
 
 **Please note that the bug tracker does not accept reports on account or
